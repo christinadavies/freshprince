@@ -1,0 +1,48 @@
+h1 {
+	color: red;
+	font-family: "Arial";
+	font-style: normal;
+	text-align: center;
+}
+p {
+	color: white;
+	font-family: "Arial";
+	font-style: normal;
+	text-align: center;
+}
+body {
+	background-color: black;
+}
+h2 {
+	color: red;
+	font-family: "Arial";
+	font-style: normal;
+	text-align: center;
+}
+ul {
+	color: white;
+	font-family: "Arial";
+	font-style: normal;
+	text-align: center;
+}
+ul li {
+	list-style-position: inside;
+}
+h3 {
+	color: white;
+	font-family: "Arial";
+	font-style: normal;
+	text-align: center;
+}
+a {
+	color: blue;
+	font-family: "Arial";
+}
+a:visited {
+	color: blue;
+	font-family: "Arial";
+}
+a:hover {
+	color: white;
+	text-decoration: none;
+}
